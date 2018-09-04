@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sub-menu-client-side-solution",
+    "id": "24b7c9ac-8119-4839-be5c-79b98345dbf6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/sub-menu.sppkg"
+  }
+}

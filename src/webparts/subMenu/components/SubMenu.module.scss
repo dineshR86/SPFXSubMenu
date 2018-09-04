@@ -1,0 +1,17 @@
+
+
+.subMenu {
+
+  :global{
+  @import 'bootstrap';
+  @import 'bootstrap-theme';
+}
+
+  .container {
+    border-bottom: 1px solid;
+    border-bottom-color: lightgray;
+    border-top:1px solid;
+    border-top-color: lightgray;
+    
+  }
+}
