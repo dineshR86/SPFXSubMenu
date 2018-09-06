@@ -1397,7 +1397,7 @@ input[type="button"].btn-block {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #3b3a30;
-  background-color: #feb236;
+  background-color:"[theme: themePrimary,default:#feb236]" ;
 }
 .nav-stacked > li {
   float: none;

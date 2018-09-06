@@ -773,7 +773,8 @@ function getManifests() {
         },
         "SubMenuWebPartStrings": {
           "defaultPath": "lib/webparts/subMenu/loc/en-us.js",
-          "type": "localizedPath"
+          "type": "localizedPath",
+          "paths": {}
         },
         "react": {
           "type": "component",
